@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Philosophy at 40
+title: philosophy
 permalink: /projects/philosophy-at-40/
 nav_exclude: true
 ---
