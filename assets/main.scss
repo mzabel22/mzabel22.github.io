@@ -144,49 +144,101 @@ a.mini-card:hover .profile-icon {
 }
 
 
-.reading-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 0.85rem;
-  margin: 1rem 0 1.75rem;
+/* Goodreads currently-reading widget */
+
+.gr_custom_container_1793825570 {
+  width: 100% !important;
+  padding: 0 !important;
+
+  background: transparent !important;
+  color: #d6d9e0 !important;
+
+  border: 0 !important;
 }
 
-.reading-card {
+.gr_custom_header_1793825570 {
+  display: none;
+}
+
+.gr_custom_each_container_1793825570 {
   display: flex;
   align-items: center;
   gap: 0.9rem;
 
-  padding: 0.8rem;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 100px;
+
+  margin: 0 0 0.85rem 0 !important;
+  padding: 0.8rem !important;
+
+  overflow: hidden !important;
 
   background: #161b22;
-  border: 1px solid #30363d;
+  border: 1px solid #30363d !important;
   border-radius: 8px;
 }
 
-.book-cover {
-  width: 54px;
-  height: 78px;
+.gr_custom_book_container_1793825570 {
+  float: none !important;
+
+  width: 54px !important;
+  height: 78px !important;
+
+  margin: 0 !important;
+
+  overflow: hidden;
+  flex: 0 0 54px;
+}
+
+.gr_custom_book_container_1793825570 img {
+  display: block;
+
+  width: 54px !important;
+  height: 78px !important;
+  max-width: 54px !important;
+
   object-fit: cover;
 
+  border: 1px solid #30363d !important;
   border-radius: 4px;
-  border: 1px solid #30363d;
-
-  flex-shrink: 0;
 }
 
-.book-info {
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-}
-
-.book-info strong {
-  color: #f0f3f8;
+.gr_custom_title_1793825570 {
   font-size: 0.95rem;
+  font-weight: 600;
   line-height: 1.3;
 }
 
-.book-info span {
+.gr_custom_title_1793825570 a,
+.gr_custom_title_1793825570 a:visited {
+  color: #f0f3f8;
+  text-decoration: none;
+}
+
+.gr_custom_title_1793825570 a:hover {
+  color: #a78bfa;
+}
+
+.gr_custom_author_1793825570 {
+  margin-top: 0.2rem;
+
+  color: #8b949e !important;
+  font-size: 0.9rem !important;
+}
+
+.gr_custom_author_1793825570 a,
+.gr_custom_author_1793825570 a:visited {
   color: #8b949e;
-  font-size: 0.9rem;
+}
+
+.gr_custom_author_1793825570 a:hover {
+  color: #7c9cff;
+}
+
+/* Hide Goodreads logo/footer */
+
+#gr_custom_widget_1793825570 center,
+#gr_custom_widget_1793825570 noscript {
+  display: none;
 }
