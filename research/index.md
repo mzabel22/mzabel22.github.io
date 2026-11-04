@@ -1,10 +1,11 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 ---
 
-Prior research, current research interests and future projects
+Prior research, current research interests, and future projects.
 
-##Publications##
+## Publications
 
+[View complete publication list →](/research/publications/)
