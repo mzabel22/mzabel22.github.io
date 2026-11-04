@@ -38,6 +38,7 @@ This site is primarily a place for longer-form notes and writing from my reading
 </span>
 
 </div>
+
 ## Currently reading
 
 **What Is Called Thinking**  
