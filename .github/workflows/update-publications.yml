@@ -1,0 +1,40 @@
+name: Update publications
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 13 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate publications page
+        run: python scripts/update_publications.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- research/publications.md; then
+            echo "No publication changes."
+            exit 0
+          fi
+
+          git config user.name "gliosis-publications-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add research/publications.md
+          git commit -m "Update publications from OpenAlex"
+          git push
