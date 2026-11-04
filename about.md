@@ -11,38 +11,12 @@ This site is primarily a place for longer-form notes and writing from my reading
 
 ## Elsewhere
 
-<h2>Social</h2>
+### Social
 
-<div class="profile-links">
+**Discord** · @mzabel  
+**X** · [@mzabel22](https://x.com/mzabel22)
 
-<span>
-  Discord · @mzabel
-</span>
+### Gaming
 
-<a href="https://x.com/mzabel22">
-  X · @mzabel22
-</a>
-
-</div>
-
-<h2>Gaming</h2>
-
-<div class="profile-links">
-
-<span>
-  PlayStation · lighteco014
-</span>
-
-<span>
-  Steam · Röntgen
-</span>
-
-</div>
-
-## Currently reading
-
-**What Is Called Thinking**  
-Martin Heidegger
-
-**War and Peace**  
-Leo Tolstoy
+**PlayStation** · lighteco014  
+**Steam** · Röntgen
