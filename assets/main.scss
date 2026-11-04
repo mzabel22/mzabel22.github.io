@@ -61,3 +61,27 @@ h6 {
 hr {
   border-color: #30363d;
 }
+
+.card-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.profile-icon {
+  width: 18px;
+  height: 18px;
+
+  /* Convert the black SVG to a subdued light icon */
+  filter: invert(82%);
+  opacity: 0.85;
+
+  transition:
+    opacity 0.15s ease,
+    transform 0.15s ease;
+}
+
+a.mini-card:hover .profile-icon {
+  opacity: 1;
+  transform: scale(1.06);
+}
