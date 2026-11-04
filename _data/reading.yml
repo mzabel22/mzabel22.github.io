@@ -1,0 +1,9 @@
+# _data/reading.yml
+
+- title: The Life of the Mind
+  author: Hannah Arendt
+  cover: /assets/images/books/life-of-the-mind.jpg
+
+- title: What Is Called Thinking?
+  author: Martin Heidegger
+  cover: /assets/images/books/what-is-called-thinking.jpg
