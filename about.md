@@ -11,12 +11,50 @@ This site is primarily a place for longer-form notes and writing from my reading
 
 ## Elsewhere
 
-### Social
+### Socials
 
-**Discord** · @mzabel  
-**X** · [@mzabel22](https://x.com/mzabel22)
+<div class="mini-card-grid">
+
+  <a class="mini-card" href="https://x.com/mzabel22">
+    <strong>X</strong>
+    <span>@mzabel22</span>
+  </a>
+
+  <div class="mini-card">
+    <strong>Discord</strong>
+    <span>@mzabel</span>
+  </div>
+
+</div>
 
 ### Gaming
 
-**PlayStation** · lighteco014  
-**Steam** · Röntgen
+<div class="mini-card-grid">
+
+  <div class="mini-card">
+    <strong>PlayStation</strong>
+    <span>lighteco014</span>
+  </div>
+
+  <div class="mini-card">
+    <strong>Steam</strong>
+    <span>Röntgen</span>
+  </div>
+
+</div>
+
+## Currently reading
+
+<div class="reading-grid">
+
+  <div class="reading-card">
+    <strong>What Is Called Thinking</strong>
+    <span>Martin Heidegger</span>
+  </div>
+
+  <div class="reading-card">
+    <strong>War and Peace</strong>
+    <span>Leo Tolstoy</span>
+  </div>
+
+</div>
