@@ -2,6 +2,7 @@
 layout: page
 title: Consciousness
 permalink: /projects/consciousness/
+nav_exclude: true
 ---
 
 A long-term reading and writing project on consciousness at the intersection of neuroscience and philosophy of mind.
