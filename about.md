@@ -54,3 +54,33 @@ This site is primarily a place for longer-form notes and writing from my reading
   </div>
 
 </div>
+
+## Currently reading
+
+<div class="reading-grid">
+
+  <div class="reading-card">
+    <img
+      class="book-cover"
+      src="/assets/images/books/what-is-called-thinking.jpg"
+      alt="Cover of What Is Called Thinking"
+    >
+    <div class="book-info">
+      <strong>What Is Called Thinking</strong>
+      <span>Martin Heidegger</span>
+    </div>
+  </div>
+
+  <div class="reading-card">
+    <img
+      class="book-cover"
+      src="/assets/images/books/war-and-peace.jpg"
+      alt="Cover of War and Peace"
+    >
+    <div class="book-info">
+      <strong>War and Peace</strong>
+      <span>Leo Tolstoy</span>
+    </div>
+  </div>
+
+</div>
