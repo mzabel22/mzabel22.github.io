@@ -56,8 +56,8 @@ The aim is not to read as many philosophers as possible, but to spend sustained 
 
 ↓
 
-**Kierkegaard, Sartre & Camus**  
-*How should I confront freedom, mortality, and meaning?*
+**Heidegger, Kierkegaard, Sartre & Camus**
+*How should I confront existence, freedom, mortality, and meaning?*
 
 ↓
 
