@@ -37,21 +37,21 @@ This site is primarily a place for longer-form notes and writing from my reading
 
 <div class="mini-card-grid">
 
-  <div class="mini-card">
+  <a class="mini-card" href=https://profile.playstation.com/lighteco014>
     <div class="card-heading">
       <img class="profile-icon" src="/assets/icons/playstation.svg" alt="">
       <strong>PlayStation</strong>
     </div>
     <span>lighteco014</span>
-  </div>
+  </a>
 
-  <div class="mini-card">
-    <div class="card-heading">
-      <img class="profile-icon" src="/assets/icons/steam.svg" alt="">
-      <strong>Steam</strong>
-    </div>
-    <span>Röntgen</span>
+  <a class="mini-card" href="https://steamcommunity.com/profiles/76561198180140555/">
+  <div class="card-heading">
+    <img class="profile-icon" src="/assets/icons/steam.svg" alt="">
+    <strong>Steam</strong>
   </div>
+  <span>Röntgen</span>
+</a>
 
 </div>
 
