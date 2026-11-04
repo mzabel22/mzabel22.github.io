@@ -23,13 +23,13 @@ This site is primarily a place for longer-form notes and writing from my reading
     <span>@mzabel22</span>
   </a>
 
-  <div class="mini-card">
+  <a class="mini-card" href=https://discord.com/users/859671221674442772>
     <div class="card-heading">
       <img class="profile-icon" src="/assets/icons/discord.svg" alt="">
       <strong>Discord</strong>
     </div>
     <span>@mzabel</span>
-  </div>
+  </a>
 
 </div>
 
