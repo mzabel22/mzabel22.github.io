@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consciousness
+title: consciousness
 permalink: /projects/consciousness/
 nav_exclude: true
 ---
