@@ -2,3 +2,7 @@ title: Gliosis
 description: Notes on philosophy, neuroscience, consciousness, medicine, and the examined life.
 
 theme: minima
+
+header_pages:
+  - about.md
+  - projects/index.md
