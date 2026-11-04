@@ -57,30 +57,10 @@ This site is primarily a place for longer-form notes and writing from my reading
 
 ## Currently reading
 
-<div class="reading-grid">
+<div id="gr_custom_widget_1793825570"></div>
 
-  <div class="reading-card">
-    <img
-      class="book-cover"
-      src="/assets/images/books/what-is-called-thinking.jpg"
-      alt="Cover of What Is Called Thinking"
-    >
-    <div class="book-info">
-      <strong>What Is Called Thinking</strong>
-      <span>Martin Heidegger</span>
-    </div>
-  </div>
-
-  <div class="reading-card">
-    <img
-      class="book-cover"
-      src="/assets/images/books/war-and-peace.jpg"
-      alt="Cover of War and Peace"
-    >
-    <div class="book-info">
-      <strong>War and Peace</strong>
-      <span>Leo Tolstoy</span>
-    </div>
-  </div>
-
-</div>
+<script
+  src="https://www.goodreads.com/review/custom_widget/7590733.Matthew's%20bookshelf:%20currently-reading?cover_position=left&cover_size=medium&num_books=5&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1793825570&widget_text_color=000000&widget_title_size=medium&widget_width=medium"
+  type="text/javascript"
+  charset="utf-8">
+</script>
