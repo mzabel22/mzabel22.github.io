@@ -144,9 +144,9 @@ Reading and notes forthcoming.
 
 Reading and notes forthcoming.
 
-### October — Kierkegaard, Sartre & Camus
+### October — Heidegger, Kierkegaard, Sartre & Camus
 
-**Question:** How should I confront freedom, mortality, and meaning?
+**Question:** How should I confront existence, freedom, mortality, and meaning?
 
 Reading and notes forthcoming.
 
