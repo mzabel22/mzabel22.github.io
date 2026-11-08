@@ -70,7 +70,7 @@ A bibliography of my published scholarly work.
 
 ### 2011
 
-**Matthew Schrag, Andrew R. Crofton, Matthew K. Zabel, Arshad Jiffry, David Kirsch, April Dickson, Xiao Wen Mao, Harry V. Vinters, Dylan Wythe Domaille, Christopher J. Chang, Wolff M. Kirsch.** “Effect of Cerebral Amyloid Angiopathy on Brain Iron, Copper, and Zinc in Alzheimer's Disease.” *Journal of Alzheimer s Disease*. 2011; 24(1); 137–149. [DOI](https://doi.org/10.3233/jad-2010-101503) · [PMID](https://pubmed.ncbi.nlm.nih.gov/21187585/)
+**Matthew Schrag, Andrew R. Crofton, Matthew K. Zabel, Arshad Jiffry, David Kirsch, April Dickson, Xiao Wen Mao, Harry V. Vinters, Dylan W. Domaille, Christopher J. Chang, Wolff M. Kirsch.** “Effect of Cerebral Amyloid Angiopathy on Brain Iron, Copper, and Zinc in Alzheimer's Disease.” *Journal of Alzheimer s Disease*. 2011; 24(1); 137–149. [DOI](https://doi.org/10.3233/jad-2010-101503) · [PMID](https://pubmed.ncbi.nlm.nih.gov/21187585/)
 
 ## Editorials and commentaries
 
