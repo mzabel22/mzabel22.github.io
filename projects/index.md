@@ -17,3 +17,8 @@ A year-long systematic reading project through major problems and figures in Wes
 A more focused reading project on consciousness, neuroscience, philosophy of mind, and competing theories of subjective experience.
 
 [View project →](/projects/consciousness/)
+
+## Psychology
+
+An intellectual survey of psychology as a science of mind and behavior: where its major ideas came from, how the field established evidence, what its major theoretical traditions claim, and which claims survived modern empirical scrutiny.
+
