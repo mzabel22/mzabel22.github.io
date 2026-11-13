@@ -22,3 +22,4 @@ A more focused reading project on consciousness, neuroscience, philosophy of min
 
 An intellectual survey of psychology as a science of mind and behavior: where its major ideas came from, how the field established evidence, what its major theoretical traditions claim, and which claims survived modern empirical scrutiny.
 
+[View project →](/projects/psychology/)
